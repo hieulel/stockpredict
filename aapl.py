@@ -44,4 +44,3 @@ predicted_price=predict_prices(dates,prices,29)
 
 print(predicted_price)
 	
-#plt.switch_backend('new_backend')
